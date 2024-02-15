@@ -1,0 +1,151 @@
+#navitem1{
+    color:#323f4b;
+  }
+  #navitem2{
+    color: #323f4b;
+  }
+  #navitem3{
+    color: #323f4b;
+  }
+  #navitem4{
+    color: #323f4b;
+  }
+  .bg{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png") ;
+    height: 100vh;
+    background-size: cover;
+  }
+  .bt{
+    color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
+  }
+  .bt1{
+    color: white;
+  background-color:transparent;
+  width: 130px;
+  height: 45px;
+  border:1px #d0b200 solid;
+  border-radius: 8px;
+  margin-right: 10px;
+  }
+  .icon{
+    height: 70px;
+    width: 80px;
+  }
+  .s1img{
+        height: 90px;
+        width: 87px;
+
+    }
+    .s1card{
+        border: 1px #e5eaf4 solid;
+        text-align: center;
+        border-radius: 16px;
+    }
+    .s1{
+        background-color:  #f9fbfe;
+    }
+    .s1s{
+        font-weight: 700;
+        font-style: italic;
+        color: black;
+    }
+    .s3-m1{
+        background-color:  #f9fbfe;
+    }
+    .s4i{
+        width: 270px;
+    }
+    .s3-h{
+        color: #183b56;
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .s3-p{
+        color: #5a7184;
+        font-size: 16px;
+    }
+    .s3-b{
+        color: white;
+        background-image: linear-gradient(#d0b200, #a58d00);
+        width: 130px;
+        height: 45px;
+        border:none;
+        border-radius: 8px;
+        margin-right: 10px;
+    }
+    .s3-i{
+        width: 50px;
+        height: 50px;
+        margin-right: 28px;
+    }
+    .s3-m2{
+        background-color:white;
+    }
+    .s3-i1{
+        width: 270px;
+    }
+    .s3-m3{
+        background-image:radial-gradient(#fff8db, #fae38c);
+    }
+    .s3-i2 {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.s2m{
+        background-color: white;
+    }
+    .s2img{
+        border-radius: 16px;
+    }
+    .s2h{
+        color: #183b56;
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .s2h1{
+        color: #323f4b ;
+        font-size:18px;
+        font-weight: 500;
+        margin-top: 24px;
+    }
+    .s2a{
+        color:#d0b200;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .s2c{
+        border-radius: 16px;
+    }
+    .f-s-s4{
+        background-color: white;
+    }
+    .f-sh-s4{
+        text-align: center;
+        color: #183b56;
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .follow-us-icon-container{
+        background-color: #faf7e8;
+        width: 80px;
+        height: 80px;
+        border-radius: 40px;
+        margin: 15px;
+        padding-top: 22px;
+        padding-bottom: 14px;
+        padding-right: 16px;
+        padding-left: 22px;
+    }
+    .icon{
+        color: #d0b200;
+        font-size: 35px;
+    }
+    .modal-title{
+        color: #d0b200;
+    }
